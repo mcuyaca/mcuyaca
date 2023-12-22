@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hola, soy Tu Manuel Cuya
+
+- 👋 ¡Hola! Soy un entusiasta de la programación.
+- 🌱 Actualmente estoy aprendiendo [Node].
+- 💬 Pregunta sobre [algo que te interese].
+- 📫 Cómo contactarme: [mcuya.ca@gmail.com].
+
+![Estado de Github](https://github-readme-stats.vercel.app/api?username=mcuyaca&show_icons=true&count_private=true)
 
 <!--
 **mcuyaca/mcuyaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
