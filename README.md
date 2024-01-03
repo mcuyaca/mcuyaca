@@ -3,9 +3,9 @@
 
 </h1>
 <h3 align="center">Full Stack Developer </h3>
-<p align="center" > 
-<img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="80"> 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/mcuyaca/"><img src="https://img.shields.io/badge/-Manuel%20Cuya%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mcuya.ca@gmail.com"><img src="https://img.shields.io/badge/-Manuel%20Cuya%20-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
@@ -35,18 +35,12 @@ const Manuel = {
     },
 };
 ```
-----
-
 ## ⚙️  GitHub Analytics
 <div align="center" > 
 	
-![Estado de Github](https://git-hub-stats-card-mcuyaca.vercel.app/api?username=mcuyaca&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true) 
-![Top Langs](https://git-hub-stats-card-mcuyaca.vercel.app/api/top-langs/?username=mcuyaca&layout=compact)
+![Estado de Github](https://git-hub-stats-card-mcuyaca.vercel.app/api?username=mcuyaca&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=gotham&) 
+![Top Langs](https://git-hub-stats-card-mcuyaca.vercel.app/api/top-langs/?username=mcuyaca&layout=compact&theme=gotham)
 </div>
 
-## 🤝🏻  Conctactame 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mcuyaca/"><img src="https://img.shields.io/badge/-Manuel%20Cuya%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mcuya.ca@gmail.com"><img src="https://img.shields.io/badge/-mcuya.ca@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+
