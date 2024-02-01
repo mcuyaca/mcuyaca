@@ -31,7 +31,7 @@ const Manuel = {
             js: ["node"]
         },
         databases: [ "MongoDB","SQL"],
-        tools: [ "Jest"],
+        tools: [ "Jest","Vitest"],
     },
 };
 ```
