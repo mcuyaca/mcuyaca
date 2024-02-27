@@ -15,7 +15,7 @@
 * 💬 Comparte tus experiencias en el testing de proyectos. ¡Me encantaría aprender más!
 * 🛠️ Trabajando en proyectos solucionen problemas diarios con mi nueva pasión por la programación.
 * 📚 Siempre en busca de nuevas oportunidades de aprendizaje y crecimiento.
-
+* 💼 ¿Quieres ver mi trabajo? [¡Visita mi portafolio!](https://mcuyaca.vercel.app/)
 
 ## 🛠 Un poco más acerca de mi
 ```javascript
