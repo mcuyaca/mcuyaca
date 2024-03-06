@@ -5,7 +5,6 @@
 <h3 align="center">Full Stack Developer </h3>
 <p align="center" > 
 <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="80"> 
-
 </p>
 
 
