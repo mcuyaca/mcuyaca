@@ -1,4 +1,3 @@
-
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Manuel Cuya!
 
 </h1>
@@ -6,7 +5,6 @@
 <p align="center" > 
 <img  src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="80"> 
 </p>
-
 
 ## 📖 Acerca de mi
 * 🌱 Actualmente estoy aprendiendo NodeJS y Astro para expandir mis habilidades.
